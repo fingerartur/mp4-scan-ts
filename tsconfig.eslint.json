@@ -1,0 +1,10 @@
+/**
+* The purpose of this tsconfig file is simply to tell Eslint which files it should process.
+* It is not in any way involved in compilation.
+*/
+{
+  "include": [
+    "**/*.ts",
+    "**/*.js"
+  ],
+}
