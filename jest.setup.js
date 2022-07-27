@@ -1,3 +1,3 @@
 // Setup tests
 
-// Run something before all tests
+require('whatwg-fetch')
