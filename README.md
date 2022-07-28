@@ -81,5 +81,7 @@ import { parseMp4Boxes } from '@finga/mp4-scan-ts'
 
 ## Changelog
 
+- v1.0.1
+  - Improved NPM keywords
 - v1.0.0
   - Added functions `supportsProgressiveDownload` and `parseMp4Boxes`

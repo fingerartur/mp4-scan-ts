@@ -17,8 +17,11 @@
     "dist"
   ],
   "keywords": [
-    "lib",
-    "ts"
+    "mp4",
+    "progressive",
+    "download",
+    "scan",
+    "format"
   ],
   "author": "Artur Finger <fingerartur@gmail.com>",
   "license": "MIT",
